@@ -1,4 +1,3 @@
-# CopyRight Autodesk Inc. All Rights reserved
 # Author: Ramesh Gadamsetti
 
 from datetime import datetime, timedelta
